@@ -1,0 +1,7 @@
+{
+  "name": "Pedometer-App",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react-vite"
+}
